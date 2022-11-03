@@ -1,0 +1,16 @@
+varname,varlabel,aki_or,aki_lci,aki_uci,aki_orci
+header,Overall,,,,
+MALE,MALE,1.6,1.42,1.8,1.60 (1.42-1.80)
+Revasculazation,Revasculazation,1.54,1.32,1.81,1.54 (1.32-1.81)
+Amputation,Amputation,1.65,1.38,1.98,1.65 (1.38-1.98)
+Death,Death,1.09,0.99,1.19,1.09 (0.99-1.19)
+header,Male,,,,
+M_MALE,M_MALE,1.75,1.44,2.13,1.75 (1.44-2.13)
+M_Revasculazation,M_Revasculazation,1.59,1.24,2.04,1.59 (1.24-2.04)
+M_Amputation,M_Amputation,1.93,1.44,2.58,1.93 (1.44-2.58)
+M_Death,M_Death,1.07,0.94,1.23,1.07 (0.94-1.23)
+header,Female,,,,
+F_MALE,F_MALE,1.52,1.14,2.01,1.52 (1.14-2.01)
+F_Revasculazation,F_Revasculazation,1.5,1.05,2.12,1.50 (1.05-2.12)
+F_Amputation,F_Amputation,1.39,1.82,2.36,1.39 (0.82-2.36)
+F_Death,F_Death,1.13,0.92,1.39,1.13 (0.92-1.39)

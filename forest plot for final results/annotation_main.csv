@@ -1,0 +1,9 @@
+function,label,x1,x1space,yc1,y1space,anchor,textweight,width,textsize,fillcolor,display
+text,MALE,1.5,graphpercent,MALE,datavalue,left,,200,10,white,all
+text,"1.60(1.42, 1.80)",-2,wallpercent,MALE,datavalue,right,,200,8,white,all
+text,Revasculazation,1.5,graphpercent,Revasculazation,datavalue,left,,200,10,white,all
+text,"1.54(1.32, 1.81)",-2,wallpercent,Revasculazation,datavalue,right,,200,8,white,all
+text,Amputation,1.5,graphpercent,Amputation,datavalue,left,,200,10,white,all
+text,"1.65(1.38, 1.98)",-2,wallpercent,Amputation,datavalue,right,,200,8,white,all
+text,Death,1.5,graphpercent,Death,datavalue,left,,200,10,white,all
+text,"1.08(0.99, 1.19)",-2,wallpercent,Death,datavalue,right,,200,8,white,all

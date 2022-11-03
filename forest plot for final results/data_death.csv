@@ -1,0 +1,11 @@
+varname,varlabel,aki_or,aki_lci,aki_uci,aki_orci
+header,Overall,1.09,0.99,1.19,1.09 (0.99-1.19)
+header,Sex,,,,
+Male,Male,1.07,0.94,1.23,1.07 (0.94-1.23)
+Female,Female,1.13,0.92,1.39,1.13 (0.92-1.39)
+header,History of Diabetes,,,,
+Yes,DM1,1.02,0.82,1.25,1.02 (0.82-1.25)
+No,DM0,1.13,1.1,1.16,1.13 (1.10-1.16)
+header,History of Heart Failure,,,,
+Yes ,CHF1,0.92,0.73,1.14,0.92 (0.73-1.14)
+No ,CHF0,1.15,0.99,1.35,1.15 (0.99-1.35)

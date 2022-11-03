@@ -1,0 +1,25 @@
+function,label,x1,x1space,yc1,y1space,anchor,textweight,width,textsize,fillcolor,display
+text,Overall,1.5,graphpercent,Overall,datavalue,left,bold,200,10,white,all
+text,"1.15(1.04,1.25)",-2,wallpercent,Overall,datavalue,right,,200,8,white,all
+text,Sex,1.5,graphpercent,Sex,datavalue,left,bold,200,10,white,all
+text,Male,3,graphpercent,Male,datavalue,left,,200,8,white,all
+text,"1.12(0.95,1.29)",-2,wallpercent,Male,datavalue,right,,200,8,white,all
+text,Female,3,graphpercent,Female,datavalue,left,,200,8,white,all
+text,"1.17(1.02,1.32)",-2,wallpercent,Female,datavalue,right,,200,8,white,all
+text,Age,1.5,graphpercent,Age,datavalue,left,bold,200,10,white,all
+text,>75 years,3,graphpercent,>75 years,datavalue,left,,200,8,white,all
+text,"1.10(0.95,1.24)",-2,wallpercent,>75 years,datavalue,right,,200,8,white,all
+text,<=75 years,3,graphpercent,<=75 years,datavalue,left,,200,8,white,all
+text,"1.21(1.04,1.38)",-2,wallpercent,<=75 years,datavalue,right,,200,8,white,all
+text,Race-ethnicity,1.5,graphpercent,Race-ethnicity,datavalue,left,bold,200,10,white,all
+text,Hispanic White,3,graphpercent,Hispanic White,datavalue,left,,200,8,white,all
+text,"0.88(0.60,1.17)",-2,wallpercent,Hispanic White,datavalue,right,,200,8,white,all
+text,Non-Hispanic White,3,graphpercent,Non-Hispanic White,datavalue,left,,200,8,white,all
+text,"1.16(1.02,1.30)",-2,wallpercent,Non-Hispanic White,datavalue,right,,200,8,white,all
+text,Black,3,graphpercent,Black,datavalue,left,,200,8,white,all
+text,"1.27(1.01,1.52)",-2,wallpercent,Black,datavalue,right,,200,8,white,all
+text,Baseline Diabetes,1.5,graphpercent,Baseline Diabetes,datavalue,left,bold,200,10,white,all
+text,Yes,3,graphpercent,Yes,datavalue,left,,200,8,white,all
+text,"1.01(0.84,1.17)",-2,wallpercent,Yes,datavalue,right,,200,8,white,all
+text,No,3,graphpercent,No,datavalue,left,,200,8,white,all
+text,"1.25(1.09,1.39)",-2,wallpercent,No,datavalue,right,,200,8,white,all

@@ -1,0 +1,18 @@
+function,label,x1,x1space,yc1,y1space,anchor,textweight,width,textsize,fillcolor,display
+text,Overall,1.5,graphpercent,Overall,datavalue,left,bold,200,10,white,all
+text,1.60 (1.42-1.80),-2,wallpercent,Overall,datavalue,right,,200,8,white,all
+text,Sex,1.5,graphpercent,Sex,datavalue,left,bold,200,10,white,all
+text,Male,3,graphpercent,Male,datavalue,left,,200,10,white,all
+text,1.75 (1.44-2.13),-2,wallpercent,Male,datavalue,right,,200,8,white,all
+text,Female,3,graphpercent,Female,datavalue,left,,200,10,white,all
+text,1.52 (1.14-2.01),-2,wallpercent,Female,datavalue,right,,200,8,white,all
+text,History of Diabetes,1.5,graphpercent,History of Diabetes,datavalue,left,bold,200,10,white,all
+text,Yes,3,graphpercent,DM1,datavalue,left,,200,10,white,all
+text,1.58 (1.29-1.93),-2,wallpercent,DM1,datavalue,right,,200,8,white,all
+text,No,3,graphpercent,DM0,datavalue,left,,200,10,white,all
+text,1.63 (1.19-2.24),-2,wallpercent,DM0,datavalue,right,,200,8,white,all
+text,History of Heart Failure,1.5,graphpercent,History of Heart Failure,datavalue,left,bold,200,10,white,all
+text,Yes ,3,graphpercent,CHF1,datavalue,left,,200,10,white,all
+text,1.42 (1.14-1.77),-2,wallpercent,CHF1,datavalue,right,,200,8,white,all
+text,No ,3,graphpercent,CHF0,datavalue,left,,200,10,white,all
+text,1.94 (1.44-2.63),-2,wallpercent,CHF0,datavalue,right,,200,8,white,all

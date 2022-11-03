@@ -1,0 +1,5 @@
+varname,varlabel,aki_or,aki_lci,aki_uci,aki_orci
+header,MALE,1.6,1.42,1.8,"1.60(1.42, 1.80)"
+header,Revasculazation,1.54,1.32,1.81,"1.54(1.32, 1.81)"
+header,Amputation,1.65,1.38,1.98,"1.65(1.38, 1.98)"
+header,Death,1.08,0.99,1.19,"1.08(0.99, 1.19)"
